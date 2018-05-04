@@ -1,0 +1,2 @@
+# MeuProjetoTeste
+Inicial em Git
