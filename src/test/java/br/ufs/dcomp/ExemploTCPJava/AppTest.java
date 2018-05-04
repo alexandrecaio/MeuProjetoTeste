@@ -1,4 +1,4 @@
-package br.ufs.dcomp.MeuProjeto;
+package br.ufs.dcomp.ExemploTCPJava;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
